@@ -4,17 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My-Chat application</title>
-    <script src="js/client.js"></script>
+    <script defer src="https://localhost:8000/socket.io.js"></script>
+    <script defer src="js/client.js"></script>
     <link rel="stylesheet" href="css/style.css">
+    
 </head>
 <body>
     <nav>
         <img class="logo" src="icon.png" alt="">
+        <h1 style="color: aliceblue;">Welcome to My-Chat App</h1>
     </nav>
 
     <div class="container">
-        <div class="message right">Aryan: How are you</div>
-        <div class="message left">Akshit: I am fine bro</div>
+        
     </div>
 
     <div class="send">
@@ -28,6 +30,5 @@
         <source src="bg1.mp4" type="video/mp4">
     </video>
 
-    
 </body>
 </html>

@@ -5,6 +5,13 @@
     width: 50;
 }
 
+h1{
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+
 .container{
     max-width: 950px;
     border: 2px solid black;
@@ -43,7 +50,7 @@
 
 }
 #messageInp{
-    width: 90%;
+    width: 65%;
     border: 2px solid black;
     border-radius: 6px;
     height: 35px;
@@ -54,10 +61,6 @@
     border: 2px solid black;
     border-radius: 6px;
     height: 35px;
-}
-
-body{
-    
 }
 
 #background-video {
