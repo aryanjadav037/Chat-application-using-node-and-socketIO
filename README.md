@@ -1,8 +1,7 @@
 
-```markdown
 # My-Chat Application
 
-This is a real-time chat application built using Node.js, Socket.IO, HTML, and CSS.
+This is a Simple real-time chat application built using Node.js, Socket.IO, HTML, and CSS.
 
 ## Features
 - Real-time messaging between users.
@@ -46,4 +45,3 @@ This is a real-time chat application built using Node.js, Socket.IO, HTML, and C
 
 ## License
 This project is licensed under the MIT License.
-```
